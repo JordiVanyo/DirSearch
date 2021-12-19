@@ -19,7 +19,8 @@ How to use it
 
 First of all, you have to clone this repository. For clone it,
 you have to introduce the following command:
-git clone <url>
+
+git clone https://github.com/JordiVanyo/DirSearch
 
 When you have the repository, to execute them, write this:
 
